@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class tong_n_so_duong {
+public class Tong_n_so_duong {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
